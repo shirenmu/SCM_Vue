@@ -1,0 +1,134 @@
+{
+  "total": 17,
+  "list": [
+    {
+      "venderCode": "1001",
+      "name": "hahah",
+      "passWord": "123456",
+      "contactor": "456789",
+      "address": "489418548",
+      "postCode": "12345-6",
+      "tel": "189484848",
+      "fax": "",
+      "createDate": "2019-09-04"
+    },
+    {
+      "venderCode": "1002",
+      "name": "大米供应",
+      "passWord": "2309",
+      "contactor": "张",
+      "address": "杭州萧山",
+      "postCode": "209901",
+      "tel": "135786672372",
+      "fax": "122322",
+      "createDate": "2019-07-15"
+    },
+    {
+      "venderCode": "1003",
+      "name": "111",
+      "passWord": "222333",
+      "contactor": "3334444",
+      "address": "3334444",
+      "postCode": "33334444",
+      "tel": "33334444",
+      "fax": "3333",
+      "createDate": "2019-06-26"
+    },
+    {
+      "venderCode": "1004",
+      "name": "化妆品店",
+      "passWord": "123456",
+      "contactor": "张晓红",
+      "address": "南京",
+      "postCode": "123456",
+      "tel": "123456",
+      "fax": "123456",
+      "createDate": "2009-09-08"
+    },
+    {
+      "venderCode": "1009",
+      "name": "zhs",
+      "passWord": "1009",
+      "contactor": "zhs",
+      "address": "hangzhou",
+      "postCode": "555555",
+      "tel": "1880329183",
+      "fax": "222222",
+      "createDate": "2019-06-27"
+    },
+    {
+      "venderCode": "1029",
+      "name": "日常用品供应",
+      "passWord": "richangyong",
+      "contactor": "小王",
+      "address": "杭州市",
+      "postCode": "211312",
+      "tel": "13928322321",
+      "fax": "1221233",
+      "createDate": "2019-07-15"
+    },
+    {
+      "venderCode": "1089",
+      "name": "大蘑菇",
+      "passWord": "232323",
+      "contactor": "gugu",
+      "address": "汉州",
+      "postCode": "121212",
+      "tel": "12121212",
+      "fax": "12121212",
+      "createDate": "2019-07-15"
+    },
+    {
+      "venderCode": "1111",
+      "name": "你好啊",
+      "passWord": "123456",
+      "contactor": "嘎嘎嘎",
+      "address": "的味道无",
+      "postCode": null,
+      "tel": "8948",
+      "fax": null,
+      "createDate": "2019-07-18"
+    },
+    {
+      "venderCode": "11111",
+      "name": "11111",
+      "passWord": "2019-07-01",
+      "contactor": "5555555",
+      "address": "11111",
+      "postCode": "11111",
+      "tel": "11111",
+      "fax": "11111",
+      "createDate": "2019-07-01"
+    },
+    {
+      "venderCode": "1223",
+      "name": "小猪佩奇",
+      "passWord": "55555",
+      "contactor": "乔治",
+      "address": "浙江省杭州市",
+      "postCode": "99999",
+      "tel": "123684743",
+      "fax": "12423432",
+      "createDate": "2019-06-26"
+    }
+  ],
+  "pageNum": 1,
+  "pageSize": 10,
+  "size": 10,
+  "startRow": 1,
+  "endRow": 10,
+  "pages": 2,
+  "prePage": 0,
+  "nextPage": 2,
+  "isFirstPage": true,
+  "isLastPage": false,
+  "hasPreviousPage": false,
+  "hasNextPage": true,
+  "navigatePages": 8,
+  "navigatepageNums": [
+    1,
+    2
+  ],
+  "navigateFirstPage": 1,
+  "navigateLastPage": 2
+}

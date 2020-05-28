@@ -1,0 +1,46 @@
+{
+  "total": 1,
+  "list": [
+    {
+      "poId": 20190912171140,
+      "venderCode": "1004",
+      "account": "lisi",
+      "createTime": "2019-09-12 17:11:40",
+      "tipFee": 0.0,
+      "productTotal": 121.0,
+      "poTotal": 1111.0,
+      "payType": 1,
+      "prePayFee": 0.0,
+      "status": 2,
+      "remark": "11",
+      "stockTime": "2019-09-14 14:29:42",
+      "stockUser": "lisi",
+      "payTime": null,
+      "payUser": null,
+      "prePayTime": null,
+      "prePayUser": null,
+      "endTime": null,
+      "endUser": null,
+      "venderName": "化妆品店",
+      "poitems": null
+    }
+  ],
+  "pageNum": 1,
+  "pageSize": 10,
+  "size": 1,
+  "startRow": 1,
+  "endRow": 1,
+  "pages": 1,
+  "prePage": 0,
+  "nextPage": 0,
+  "isFirstPage": true,
+  "isLastPage": true,
+  "hasPreviousPage": false,
+  "hasNextPage": false,
+  "navigatePages": 8,
+  "navigatepageNums": [
+    1
+  ],
+  "navigateFirstPage": 1,
+  "navigateLastPage": 1
+}

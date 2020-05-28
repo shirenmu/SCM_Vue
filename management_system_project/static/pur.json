@@ -1,0 +1,68 @@
+{
+  "total": 9,
+  "list": [
+    {
+      "categoryId": 1,
+      "name": "5343",
+      "remark": "9.8修改"
+    },
+    {
+      "categoryId": 2,
+      "name": "肥皂",
+      "remark": "罗子怡好猛"
+    },
+    {
+      "categoryId": 3,
+      "name": "斗破苍穹",
+      "remark": null
+    },
+    {
+      "categoryId": 5,
+      "name": "什么",
+      "remark": "都没有"
+    },
+    {
+      "categoryId": 13,
+      "name": "wjyyy",
+      "remark": "wjy"
+    },
+    {
+      "categoryId": 15,
+      "name": "卢本伟",
+      "remark": "牛逼"
+    },
+    {
+      "categoryId": 68,
+      "name": "黄瓜",
+      "remark": "啊啊啊啊啊"
+    },
+    {
+      "categoryId": 253437,
+      "name": "卢本伟",
+      "remark": "卢本伟牛逼"
+    },
+    {
+      "categoryId": 253438,
+      "name": "西瓜",
+      "remark": "夏天配西瓜"
+    }
+  ],
+  "pageNum": 1,
+  "pageSize": 10,
+  "size": 9,
+  "startRow": 1,
+  "endRow": 9,
+  "pages": 1,
+  "prePage": 0,
+  "nextPage": 0,
+  "isFirstPage": true,
+  "isLastPage": true,
+  "hasPreviousPage": false,
+  "hasNextPage": false,
+  "navigatePages": 8,
+  "navigatepageNums": [
+    1
+  ],
+  "navigateFirstPage": 1,
+  "navigateLastPage": 1
+}

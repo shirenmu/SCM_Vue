@@ -1,0 +1,24 @@
+{
+  "code": 2,
+  "message": "登录成功",
+  "data": {
+    "user": {
+      "account": "xitong",
+      "passWord": "12345",
+      "name": "系统",
+      "createDate": "2019-07-11 14:32:18",
+      "status": 0,
+      "models": [
+        {
+          "modelCode": 2,
+          "modelName": "销售管理"
+        },
+        {
+          "modelCode": 3,
+          "modelName": "系统管理"
+        }
+      ]
+    },
+    "token": "20190902172519"
+  }
+}

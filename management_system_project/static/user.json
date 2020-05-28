@@ -1,0 +1,314 @@
+{
+  "total": 16,
+  "list": [
+    {
+      "account": "555",
+      "passWord": "12345",
+      "name": "NINe1111",
+      "createDate": "2019-06-27 13:03:20",
+      "status": 0,
+      "models": [
+        {
+          "modelCode": 1,
+          "modelName": "采购管理"
+        },
+        {
+          "modelCode": 2,
+          "modelName": "销售管理"
+        },
+        {
+          "modelCode": 3,
+          "modelName": "系统管理"
+        },
+        {
+          "modelCode": 4,
+          "modelName": "财务管理"
+        },
+        {
+          "modelCode": 5,
+          "modelName": "仓库管理"
+        },
+        {
+          "modelCode": 6,
+          "modelName": "业务报表"
+        }
+      ]
+    },
+    {
+      "account": "cff",
+      "passWord": "12345",
+      "name": "陈芳",
+      "createDate": "2019-06-26 11:59:51",
+      "status": 0,
+      "models": [
+        {
+          "modelCode": 1,
+          "modelName": "采购管理"
+        },
+        {
+          "modelCode": 2,
+          "modelName": "销售管理"
+        },
+        {
+          "modelCode": 3,
+          "modelName": "系统管理"
+        },
+        {
+          "modelCode": 4,
+          "modelName": "财务管理"
+        },
+        {
+          "modelCode": 5,
+          "modelName": "仓库管理"
+        },
+        {
+          "modelCode": 6,
+          "modelName": "业务报表"
+        }
+      ]
+    },
+    {
+      "account": "dfdf",
+      "passWord": "dddfddffff",
+      "name": "daf",
+      "createDate": "2019-07-08 14:25:35",
+      "status": 1,
+      "models": [
+        {
+          "modelCode": 2,
+          "modelName": "销售管理"
+        },
+        {
+          "modelCode": 3,
+          "modelName": "系统管理"
+        },
+        {
+          "modelCode": 4,
+          "modelName": "财务管理"
+        },
+        {
+          "modelCode": 5,
+          "modelName": "仓库管理"
+        },
+        {
+          "modelCode": 6,
+          "modelName": "业务报表"
+        }
+      ]
+    },
+    {
+      "account": "fsd",
+      "passWord": "fsdfs",
+      "name": "fdsf",
+      "createDate": "2019-07-24",
+      "status": 0,
+      "models": [
+        {
+          "modelCode": 1,
+          "modelName": "采购管理"
+        },
+        {
+          "modelCode": 2,
+          "modelName": "销售管理"
+        }
+      ]
+    },
+    {
+      "account": "fsf",
+      "passWord": "sfdsfsd",
+      "name": "fs",
+      "createDate": "2019-07-24",
+      "status": 0,
+      "models": [
+        {
+          "modelCode": 1,
+          "modelName": "采购管理"
+        },
+        {
+          "modelCode": 2,
+          "modelName": "销售管理"
+        }
+      ]
+    },
+    {
+      "account": "lisi",
+      "passWord": "12345",
+      "name": "李四",
+      "createDate": "2018-10-01",
+      "status": 0,
+      "models": [
+        {
+          "modelCode": 1,
+          "modelName": "采购管理"
+        },
+        {
+          "modelCode": 2,
+          "modelName": "销售管理"
+        },
+        {
+          "modelCode": 3,
+          "modelName": "系统管理"
+        },
+        {
+          "modelCode": 4,
+          "modelName": "财务管理"
+        },
+        {
+          "modelCode": 5,
+          "modelName": "仓库管理"
+        },
+        {
+          "modelCode": 6,
+          "modelName": "业务报表"
+        }
+      ]
+    },
+    {
+      "account": "longxin",
+      "passWord": "123456",
+      "name": "龙欣",
+      "createDate": "2019-07-10 19:49:00",
+      "status": 0,
+      "models": [
+        {
+          "modelCode": 1,
+          "modelName": "采购管理"
+        },
+        {
+          "modelCode": 2,
+          "modelName": "销售管理"
+        },
+        {
+          "modelCode": 3,
+          "modelName": "系统管理"
+        },
+        {
+          "modelCode": 4,
+          "modelName": "财务管理"
+        },
+        {
+          "modelCode": 5,
+          "modelName": "仓库管理"
+        },
+        {
+          "modelCode": 6,
+          "modelName": "业务报表"
+        }
+      ]
+    },
+    {
+      "account": "sfds",
+      "passWord": "1234567",
+      "name": "4d",
+      "createDate": "2019-07-26",
+      "status": 0,
+      "models": [
+        {
+          "modelCode": 1,
+          "modelName": "采购管理"
+        },
+        {
+          "modelCode": 2,
+          "modelName": "销售管理"
+        },
+        {
+          "modelCode": 3,
+          "modelName": "系统管理"
+        },
+        {
+          "modelCode": 4,
+          "modelName": "财务管理"
+        },
+        {
+          "modelCode": 5,
+          "modelName": "仓库管理"
+        }
+      ]
+    },
+    {
+      "account": "tudou",
+      "passWord": "12345",
+      "name": "土豆",
+      "createDate": "2019-07-08 14:00:05",
+      "status": 0,
+      "models": [
+        {
+          "modelCode": 1,
+          "modelName": "采购管理"
+        },
+        {
+          "modelCode": 2,
+          "modelName": "销售管理"
+        },
+        {
+          "modelCode": 3,
+          "modelName": "系统管理"
+        },
+        {
+          "modelCode": 4,
+          "modelName": "财务管理"
+        },
+        {
+          "modelCode": 5,
+          "modelName": "仓库管理"
+        },
+        {
+          "modelCode": 6,
+          "modelName": "业务报表"
+        }
+      ]
+    },
+    {
+      "account": "wangcc",
+      "passWord": "123123",
+      "name": "王cc",
+      "createDate": "2019-07-01",
+      "status": 0,
+      "models": [
+        {
+          "modelCode": 1,
+          "modelName": "采购管理"
+        },
+        {
+          "modelCode": 2,
+          "modelName": "销售管理"
+        },
+        {
+          "modelCode": 3,
+          "modelName": "系统管理"
+        },
+        {
+          "modelCode": 4,
+          "modelName": "财务管理"
+        },
+        {
+          "modelCode": 5,
+          "modelName": "仓库管理"
+        },
+        {
+          "modelCode": 6,
+          "modelName": "业务报表"
+        }
+      ]
+    }
+  ],
+  "pageNum": 1,
+  "pageSize": 10,
+  "size": 10,
+  "startRow": 1,
+  "endRow": 10,
+  "pages": 2,
+  "prePage": 0,
+  "nextPage": 2,
+  "isFirstPage": true,
+  "isLastPage": false,
+  "hasPreviousPage": false,
+  "hasNextPage": true,
+  "navigatePages": 8,
+  "navigatepageNums": [
+    1,
+    2
+  ],
+  "navigateFirstPage": 1,
+  "navigateLastPage": 2
+}
